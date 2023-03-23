@@ -1,0 +1,50 @@
+<style>
+    .back
+    {
+        background-color: #DEFEFF; 
+        color: #0075C1; 
+        border-top-style: solid;
+        border-top-width: 5px;
+        padding-bottom: 7px;
+        padding-left: 50px;
+        padding-right: 50px;
+        
+
+    }
+
+    .topboi
+    {
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        max-width: 500px;
+        margin: 7px auto 7px auto;
+    }
+
+    .ex
+    {
+        font-size: 20px;
+        color: #0075C1;
+        max-width: 500px;
+        margin: 7px auto 7px auto;
+        padding-left: 5px;
+    }
+
+    .content
+    {
+        color: black;
+        max-width: 500px;
+        margin: 7px auto 7px auto;
+        border-left: 1px solid #0075C1;
+        padding-left: 5px;
+    }
+
+    .buffer
+    {
+        margin-left: -250px;
+        height: 25px;
+        width: 50%;
+        float: left;
+    }
+
+</style>
